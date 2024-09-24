@@ -1,3 +1,6 @@
+> [!NOTE]
+>
+>Made in relation to https://github.com/rust-lang/rust-analyzer/issues/18114
 # Steps to reproduce
 
 1. Open the repository as a VSCode workspace
