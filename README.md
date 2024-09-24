@@ -1,5 +1,9 @@
 > [!NOTE]
 >
+> Issue can currently be circumvented if using VSCode by adding a `.vscode/settings.json` directly in crate folder, and not having that key in workspace.
+
+> [!NOTE]
+>
 >Made in relation to https://github.com/rust-lang/rust-analyzer/issues/18114
 # Steps to reproduce
 
