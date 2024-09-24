@@ -1,6 +1,7 @@
 > [!NOTE]
 >
 > Issue can currently be circumvented if using VSCode by adding a `.vscode/settings.json` directly in crate folder, and not having that key in workspace.
+>
 > My bad, the setting in that file is ignored.
 
 > [!NOTE]
