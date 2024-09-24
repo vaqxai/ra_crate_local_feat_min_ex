@@ -10,3 +10,6 @@
    }
    ```
 4. Observe error: crate test2 doesn't have this feature.
+   ```
+   `cargo metadata` exited with an error: error: none of the selected packages contains these features: test_feat
+   ```
